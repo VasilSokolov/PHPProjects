@@ -2,26 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/D:/xampp/xampp/htdocs/LoginFormWP/wordpress/wp-config.php</file>
-            <file>file:/D:/xampp/xampp/htdocs/LoginFormWP/wordpress/wp-cron.php</file>
-            <file>file:/D:/xampp/xampp/htdocs/LoginFormWP/wordpress/wp-admin/network/user-new.php</file>
-            <file>file:/D:/xampp/xampp/htdocs/LoginFormWP/wordpress/index.php</file>
-            <file>file:/D:/xampp/xampp/htdocs/LoginFormWP/wordpress/wp-admin/network/plugin-install.php</file>
-            <file>file:/D:/xampp/xampp/htdocs/LoginFormWP/wordpress/wp-admin/theme-editor.php</file>
-            <file>file:/D:/xampp/xampp/htdocs/LoginFormWP/wordpress/wp-admin/admin-post.php</file>
-            <file>file:/D:/xampp/xampp/htdocs/LoginFormWP/wordpress/wp-admin/setup-config.php</file>
-            <file>file:/D:/xampp/xampp/htdocs/LoginFormWP/wordpress/wp-admin/network/freedoms.php</file>
-            <file>file:/D:/xampp/xampp/htdocs/LoginFormWP/wordpress/wp-login.php</file>
-            <file>file:/D:/xampp/xampp/htdocs/LoginFormWP/wordpress/wp-admin/users.php</file>
-            <file>file:/D:/xampp/xampp/htdocs/LoginFormWP/wordpress/wp-admin/user/menu.php</file>
-            <file>file:/D:/xampp/xampp/htdocs/LoginFormWP/wordpress/wp-admin/network/admin.php</file>
-            <file>file:/D:/xampp/xampp/htdocs/LoginFormWP/wordpress/wp-admin/ms-users.php</file>
-            <file>file:/D:/xampp/xampp/htdocs/LoginFormWP/wordpress/wp-admin/network/index.php</file>
-            <file>file:/D:/xampp/xampp/htdocs/LoginFormWP/wordpress/wp-admin/user/profile.php</file>
-            <file>file:/D:/xampp/xampp/htdocs/LoginFormWP/wordpress/wp-admin/user/user-edit.php</file>
-            <file>file:/D:/xampp/xampp/htdocs/LoginFormWP/wordpress/wp-admin/network/user-edit.php</file>
-            <file>file:/D:/xampp/xampp/htdocs/LoginFormWP/wordpress/wp-admin/user/about.php</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
