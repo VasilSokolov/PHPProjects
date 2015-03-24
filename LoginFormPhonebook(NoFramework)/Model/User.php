@@ -174,8 +174,6 @@ class User {
         return array_pop($results);
         
     }
-
-
 }
 
 ?>
